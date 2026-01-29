@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-yo file mero abcd
-
-
-=======
 yo file 
 xyz
->>>>>>> 780d023e49e37d3d9eb478f3629108e3fb517e4a
